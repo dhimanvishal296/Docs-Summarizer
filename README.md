@@ -1,5 +1,12 @@
 # Document Summarization Web Application
 
+## Project Screenshot
+### Home page
+![Alt Text](./Frontend/public/homePage.png)
+
+#### Summary Page
+![Alt Text](./Frontend/public/summaryPage.png)
+
 ## Overview
 This project is a web application that allows users to upload documents (PDF, DOCX, TXT) and receive summarized versions using a locally deployed Language Model (LLM). The application is built with a Python backend (using FastAPI) and a React frontend. The backend processes and summarizes the uploaded documents using a pre-trained GPT-2 model.
 
